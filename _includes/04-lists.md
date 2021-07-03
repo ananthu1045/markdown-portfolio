@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+heart 
+sweat_smile
+ok_hand
+fist_raised
+blue_heart
